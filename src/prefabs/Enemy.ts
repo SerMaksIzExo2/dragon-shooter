@@ -35,7 +35,7 @@ export class Enemy extends MovableObject {
       bullet: {
         delay: 2500,
         texture: 'bullet',
-        velocity: 500,
+        velocity: -500,
       },
       origin: {
         x: 0, y: 0.5

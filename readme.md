@@ -9,7 +9,7 @@
 
 ### Demo
 
-You can try it using the [Demo](https://sermaksizexo2.github.io/tracing/)
+You can try it using the [Demo](https://sermaksizexo2.github.io/dragon-shooter/)
 
 ## **Technologies**
 
